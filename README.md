@@ -13,3 +13,7 @@ Este projeto implementa um simulador visual de um processador MIPS de 32 bits co
 2. Execute o arquivo principal:
    ```bash
    python main.py
+
+## Grupo do Projeto
+-João Vitor Prissão Oliveira
+-José Matheus Cristo
